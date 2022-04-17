@@ -1,0 +1,11 @@
+{
+  "name": "frukuna_bot",
+  "version": "1.0.0",
+  "description": "bot para messenger de frukuna",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dario cabezas <dariosce99@gmail.com>",
+  "license": "MIT"
+}
